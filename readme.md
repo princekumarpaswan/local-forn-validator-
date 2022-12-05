@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Local form Validator](https://shade-up-prince.netlify.app/)
+## [Link to the Local form Validator](https://from-validator.netlify.app/)
 
 
 ![Completed Website](./f1.png)
